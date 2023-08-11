@@ -1,0 +1,6 @@
+.card-container:hover{
+    box-shadow: 2px 2px 8px gray;
+}
+.red-color{
+    color: red;
+}
