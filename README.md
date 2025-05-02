@@ -27,5 +27,5 @@ cd client
 npm run dev
 ```
 ![Home page](screenshots/webpg1.png "Home page")
-![Home page](screenshots/webpg2.png "Edit modal")
-![Home page](screenshots/webpg3.png "Delete modal")
+![Edit modal](screenshots/webpg2.png "Edit modal")
+![Delete modal](screenshots/webpg3.png "Delete modal")
