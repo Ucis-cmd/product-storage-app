@@ -26,4 +26,6 @@ npm start
 cd client
 npm run dev
 ```
-![Database Schema Diagram](screenshots/webpg1.png "ER Diagram of Products Database")
+![Home page](screenshots/webpg1.png "Home page")
+![Home page](screenshots/webpg2.png "Edit modal")
+![Home page](screenshots/webpg3.png "Delete modal")
