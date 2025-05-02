@@ -1,8 +1,5 @@
 # Products Database Setup Guide
 
-![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-lightgrey)
-
 This guide explains how to set up the `products` database using the provided SQL dump file.
 
 ## Prerequisites
