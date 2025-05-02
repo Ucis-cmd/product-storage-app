@@ -26,3 +26,4 @@ npm start
 cd client
 npm run dev
 ```
+![Database Schema Diagram](screenshots/webpg1.png "ER Diagram of Products Database")
