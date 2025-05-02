@@ -17,3 +17,12 @@ cd product-storage-app
 
 # Import database (using command line)
 mysql -u root -p products < products_dump.sql
+```
+```bash
+cd api
+npm start
+```
+```bash
+cd client
+npm run dev
+```
