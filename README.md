@@ -12,8 +12,8 @@ This guide explains how to set up the `products` database using the provided SQL
 
 ```bash
 # Clone repository (if applicable)
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/yourusername/https://github.com/Ucis-cmd/product-storage-app.git
+cd product-storage-app
 
 # Import database (using command line)
 mysql -u root -p products < products_dump.sql
