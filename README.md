@@ -1,7 +1,5 @@
 # Products Database Setup Guide
 
-This guide explains how to set up the `products` database using the provided SQL dump file.
-
 ## Prerequisites
 
 - MySQL Server 8.0 or higher
